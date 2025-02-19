@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JPKCom Enable Block Editor
-Plugin URI: https://www.jpkc.com/
+Plugin URI: https://github.com/JPKCom/jpkcom-enable-block-editor
 Description: Enables the Block Editor for Admin (User ID:1).
 Version: 1.0.3
 Author: Jean Pierre Kolb <jpk@jpkc.com>
