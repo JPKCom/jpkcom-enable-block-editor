@@ -3,7 +3,7 @@
 Plugin Name: JPKCom Enable Block Editor
 Plugin URI: https://github.com/JPKCom/jpkcom-enable-block-editor
 Description: Enables the Block Editor for Admin (User ID:1).
-Version: 2.0.5
+Version: 2.0.6
 Author: Jean Pierre Kolb <jpk@jpkc.com>
 Author URI: https://www.jpkc.com
 Contributors: JPKCom
@@ -12,7 +12,7 @@ Requires Plugins: blockstudio
 Requires at least: 6.9
 Tested up to: 7.0
 Requires PHP: 8.3
-Stable tag: 2.0.5
+Stable tag: 2.0.6
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -30,7 +30,7 @@ if ( ! defined( constant_name: 'WPINC' ) ) {
  * @since 2.0.3
  */
 if ( ! defined( 'JPKCOM_ENABLE_BLOCK_EDITOR_VERSION' ) ) {
-    define( 'JPKCOM_ENABLE_BLOCK_EDITOR_VERSION', '2.0.5' );
+    define( 'JPKCOM_ENABLE_BLOCK_EDITOR_VERSION', '2.0.6' );
 }
 
 
