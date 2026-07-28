@@ -36,7 +36,7 @@ Main file (jpkcom-enable-block-editor.php)
 
 | Constant | Value | Purpose |
 |----------|-------|---------|
-| `JPKCOM_ENABLE_BLOCK_EDITOR_VERSION` | `'2.0.4'` | Plugin version (sync with header/README/phpdoc.xml) |
+| `JPKCOM_ENABLE_BLOCK_EDITOR_VERSION` | `'2.0.5'` | Plugin version (sync with header/README/phpdoc.xml) |
 
 ---
 
