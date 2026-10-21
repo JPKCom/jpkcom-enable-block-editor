@@ -3,7 +3,7 @@
 **Plugin Name:** JPKCom Enable Block Editor  
 **Plugin URI:** https://github.com/JPKCom/jpkcom-enable-block-editor  
 **Description:** Enables the Block Editor for Admin (User ID:1).  
-**Version:** 2.0.9  
+**Version:** 2.0.10  
 **Author:** Jean Pierre Kolb <jpk@jpkc.com>  
 **Author URI:** https://www.jpkc.com  
 **Contributors:** JPKCom  
@@ -12,7 +12,7 @@
 **Requires at least:** 6.9  
 **Tested up to:** 7.1  
 **Requires PHP:** 8.3  
-**Stable tag:** 2.0.9  
+**Stable tag:** 2.0.10  
 **License:** GPL-2.0-or-later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
 **Update URI:** https://github.com/JPKCom/jpkcom-enable-block-editor
@@ -42,6 +42,9 @@ For more details visit: https://blockstudio.dev/documentation/settings/#users
 
 
 ## Changelog
+
+### 2.0.10
+* Added: a plugin icon. The update manifest now points WordPress to the JPKCom logo, so the Updates screen (Dashboard → Updates) shows it next to this plugin instead of the generic pattern wordpress.org generates from the slug
 
 ### 2.0.9
 * Security: the plugin header now carries `Update URI: https://github.com/JPKCom/jpkcom-enable-block-editor`. Without it, WordPress also asks wordpress.org for updates under this plugin's slug, so a same-named plugin published there with a higher version would be offered as an update of this one. With the header, wordpress.org answers nothing for this plugin and updates come only from this repository
